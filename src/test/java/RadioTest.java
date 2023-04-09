@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 
 public class RadioTest {
 
-    @org.testng.annotations.Test
+    @Test
     public void valueInLimit() {        //1
         Radio radio = new Radio();
 
